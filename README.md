@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sakthipriya D 👋
 
-<!--
-**sakthipriyadhanaraj/SakthipriyaDhanaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer building secure, event-driven systems
 
-Here are some ideas to get you started:
+## 🔧 What I Work With
+**Backend:** Java 8+, Spring Boot, Spring Security, Spring Data JPA
+**Messaging:** Apache Kafka (learning)
+**Databases:** MySQL (AWS RDS), Redis, H2
+**Security:** OAuth 2.0, JWT, Spring Security
+**DevOps:** Docker (learning) , Kubernetes (learning), Git, Maven
+**ML/Python:** Flask, Scikit-learn, Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Building
+An event-driven Payment + Fraud Detection system where:
+- Spring Boot payment service publishes transactions to Kafka
+- Fraud detection service consumes events and runs ML model in real-time
+- Entire stack containerized with Docker
+
+## 📌 Featured Projects
+- 🤖 Fraud Detection System — Random Forest, 95% accuracy, Flask API
+- 🗂️ Employee Management API — Spring Boot + JPA + Pagination
+
+## 📍 Chennai, India
+📧 sakthipriyadhanaraj@gmail.com
+💼 linkedin.com/in/sakthipriya-d
+
